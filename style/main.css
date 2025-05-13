@@ -11,7 +11,7 @@ body {
   justify-content: center;
   align-items: flex-start; /* Прижимаем к верху */
   /* background: linear-gradient(135deg, #1e3a8a, #6b21a8); */
-  background: url(../img/bg.webp);
+  background: url(../img/bg_subway.webp);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -101,13 +101,14 @@ body {
 }
 
 .listen-btn {
-  /* background: #000000; */
-  background: rgb(252, 60, 230);
+  background: #000000;
+  /* background: rgb(252, 60, 230); */
   border: none;
   padding: 8px 16px;
   border-radius: 8px;
   cursor: pointer;
 }
+
 .link {
   color: #ffffff;
   font-size: 14px;
